@@ -1,4 +1,4 @@
-# Digitopup — Multi-Game Top-Up System
+# Digitopup — Digital Top-Up System
 
 Digitopup, created by **Arpan Patnaik**, is a proprietary e-commerce platform for digital content.
 It specializes in offering secure and instant top-up services for popular mobile games, powered by
