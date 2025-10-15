@@ -7,6 +7,7 @@ seamless integrations and a robust backend system.
 ---
 
 ## 🧑‍💻 Author
+
 **Arpan Patnaik**  
 📧 arpan.patnaik85@gmail.com  
 🌐 [https://digitopup.in](https://digitopup.in)
@@ -14,27 +15,30 @@ seamless integrations and a robust backend system.
 ---
 
 ## ⭐ Support Developer
-If you like **Digitopup**, please **star** ⭐ the repository and share it with your network!
+
+If you like this project, please ⭐ the repo!, share it with your network!
+[![GitHub stars](https://img.shields.io/github/stars/arpanptnk85/digitopup-showcase?style=social)](https://github.com/arpanptnk85/digitopup-showcase/stargazers)
 
 ---
 
 ## 📄 License
-This project is licensed under the [MIT License](LICENSE).
+
+This project is licensed under the [Showcase](LICENSE).
 
 ---
 
 ## 📸 Screenshots
 
-|   Home   |  Leaders | Checkout | Login |
-|----------|----------|----------|----------|
+| Home                           | Leaders                      | Checkout                      | Login                      |
+| ------------------------------ | ---------------------------- | ----------------------------- | -------------------------- |
 | ![](/screenshots/homepage.png) | ![](screenshots/leaders.png) | ![](screenshots/checkout.png) | ![](screenshots/login.png) |
 
 ---
 
 ## 🧠 Key Highlights
 
-- 🪙 Secure Wallet-based Payment Flow  
-- 🔁 Retryable Transaction Processing  
-- 🧾 Detailed Transaction Logs & Reports  
-- 📈 Admin Panel for Game & API Management  
+- 🪙 Secure Wallet-based Payment Flow
+- 🔁 Retryable Transaction Processing
+- 🧾 Detailed Transaction Logs & Reports
+- 📈 Admin Panel for Game & API Management
 - ☁️ Scalable Cloud Deployment (Docker + AWS)
